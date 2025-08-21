@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-dotenv
+mysql-connector-python
+fastapi
+uvicorn
+pydantic
